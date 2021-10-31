@@ -26,6 +26,12 @@ For Linux -->
 sudo apt-get install python-tk
 ```
 
+For Windows -->
+
+```
+pip install tk
+```
+
 ```
 pip install pytube3
 ```
