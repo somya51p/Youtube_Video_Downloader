@@ -44,7 +44,7 @@ def DownloadVideo():
 
 
 root = Tk()
-root.title("YTD Downloader")
+root.title("YouTube Video Downloader")
 root.geometry("350x300") #set window
 root.columnconfigure(0,weight=1)#set all content in center.
 
